@@ -8,4 +8,5 @@ var Time = require ('./../js/businessLogic.js').Time;
       var newTime = new Time (timeInput);
       console.log(newTime.read());
     });
+
   });
